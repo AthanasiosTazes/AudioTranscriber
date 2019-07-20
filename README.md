@@ -1,5 +1,5 @@
 # AudioTranscriber
-My Thesis for obtaining my MEng in Electrical and Computer Engineering
+My Thesis for obtaining my MEng in Electrical and Computer Engineering (matlab source code)
 
 Abstract
 
