@@ -9,7 +9,7 @@ function [stft f xfig] = my_stft(x,wlen,h,nfft,fs)
     %stft - array with ffts of wlens on columns
     %frequency vector
     %performs short time fourier transform, on windows of
-    %wlen length and h hop size.
+    %wlen length and h  hop size.
     
     if size(x, 2) > 1
         x = x';
