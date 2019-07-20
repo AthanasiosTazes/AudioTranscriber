@@ -4,7 +4,7 @@ function [slope,offset] = my_ls(data,yaxis,no)
     %data - data to be linearly regressed
     %Outpus
     %no - length of regression
-    %Performs linear regression of the data entered.
+    %Performs linear regression of the data entered .
     y = yaxis;
     
     sy = sum(y);
